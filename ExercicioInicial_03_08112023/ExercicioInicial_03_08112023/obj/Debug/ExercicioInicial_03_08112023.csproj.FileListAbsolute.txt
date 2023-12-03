@@ -1,0 +1,9 @@
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\bin\Debug\ExercicioInicial_03_08112023.exe.config
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\obj\Debug\ExercicioInicial_03_08112023.ExercicioInicial_02_08112023.resources
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\obj\Debug\ExercicioInicial_03_08112023.Properties.Resources.resources
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\obj\Debug\ExercicioInicial_03_08112023.csproj.GenerateResource.Cache
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\obj\Debug\ExercicioInicial_03_08112023.csprojResolveAssemblyReference.cache
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\bin\Debug\ExercicioInicial_03_08112023.exe
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\bin\Debug\ExercicioInicial_03_08112023.pdb
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\obj\Debug\ExercicioInicial_03_08112023.exe
+C:\Curso programar\C#\ExercicioInicial_03_08112023\ExercicioInicial_03_08112023\obj\Debug\ExercicioInicial_03_08112023.pdb
